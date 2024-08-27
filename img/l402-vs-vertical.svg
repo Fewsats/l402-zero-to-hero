@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Traditional Vertical Integration -->
+  <rect x="50" y="50" width="300" height="300" fill="#f0f0f0" stroke="#000" stroke-width="2"/>
+  <text x="200" y="30" text-anchor="middle" font-size="16" font-weight="bold">Traditional Vertical Integration</text>
+  
+  <rect x="100" y="100" width="80" height="40" fill="#ff9999" stroke="#000"/>
+  <text x="140" y="125" text-anchor="middle" font-size="12">Frontend 1</text>
+  
+  <rect x="220" y="100" width="80" height="40" fill="#ff9999" stroke="#000"/>
+  <text x="260" y="125" text-anchor="middle" font-size="12">Frontend 2</text>
+  
+  <rect x="100" y="260" width="80" height="40" fill="#99ccff" stroke="#000"/>
+  <text x="140" y="285" text-anchor="middle" font-size="12">Backend 1</text>
+  
+  <rect x="220" y="260" width="80" height="40" fill="#99ccff" stroke="#000"/>
+  <text x="260" y="285" text-anchor="middle" font-size="12">Backend 2</text>
+  
+  <line x1="140" y1="140" x2="140" y2="260" stroke="#000" stroke-width="2"/>
+  <line x1="260" y1="140" x2="260" y2="260" stroke="#000" stroke-width="2"/>
+
+  <!-- L402 Open Payment Protocol -->
+  <rect x="450" y="50" width="300" height="300" fill="#f0f0f0" stroke="#000" stroke-width="2"/>
+  <text x="600" y="30" text-anchor="middle" font-size="16" font-weight="bold">L402 Open Payment Protocol</text>
+  
+  <rect x="500" y="100" width="60" height="40" fill="#ff9999" stroke="#000"/>
+  <text x="530" y="125" text-anchor="middle" font-size="12">Frontend 1</text>
+  
+  <rect x="570" y="100" width="60" height="40" fill="#ff9999" stroke="#000"/>
+  <text x="600" y="125" text-anchor="middle" font-size="12">Frontend 2</text>
+  
+  <rect x="640" y="100" width="60" height="40" fill="#ff9999" stroke="#000"/>
+  <text x="670" y="125" text-anchor="middle" font-size="12">Frontend 3</text>
+  
+  <rect x="500" y="260" width="60" height="40" fill="#99ccff" stroke="#000"/>
+  <text x="530" y="285" text-anchor="middle" font-size="12">Backend 1</text>
+  
+  <rect x="570" y="260" width="60" height="40" fill="#99ccff" stroke="#000"/>
+  <text x="600" y="285" text-anchor="middle" font-size="12">Backend 2</text>
+  
+  <rect x="640" y="260" width="60" height="40" fill="#99ccff" stroke="#000"/>
+  <text x="670" y="285" text-anchor="middle" font-size="12">Backend 3</text>
+  
+  <rect x="570" y="180" width="60" height="40" fill="#99ff99" stroke="#000"/>
+  <text x="600" y="205" text-anchor="middle" font-size="12">L402</text>
+  
+  <line x1="530" y1="140" x2="600" y2="180" stroke="#000" stroke-width="2"/>
+  <line x1="600" y1="140" x2="600" y2="180" stroke="#000" stroke-width="2"/>
+  <line x1="670" y1="140" x2="600" y2="180" stroke="#000" stroke-width="2"/>
+  
+  <line x1="530" y1="260" x2="600" y2="220" stroke="#000" stroke-width="2"/>
+  <line x1="600" y1="260" x2="600" y2="220" stroke="#000" stroke-width="2"/>
+  <line x1="670" y1="260" x2="600" y2="220" stroke="#000" stroke-width="2"/>
+</svg>
